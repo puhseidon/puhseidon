@@ -18,7 +18,7 @@ $\color{#a0c0e5}{\textsf{Wings}}$
 
 hi my name is wings yeah thats it goodbye
 
- [more about me](https://natribu.org/en/) and [my ata]([https://hermes.atabook.org/)
+ [more about me](https://natribu.org/en/) and [my ata](https://hermes.atabook.org/)
 
 <a href="">
         <img src="https://file.garden/aaPlwvSfDxzmdQU0/wavvv" width="500" height="90" alt="Link Image">
