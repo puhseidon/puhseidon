@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**puhseidon/puhseidon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="">
+        <img src="https://file.garden/aaPlwvSfDxzmdQU0/wavv2" width="500" height="90" alt="Link Image">
+ </a>
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Princess+Sofia&size=40&duration=2000&pause=900&color=7FA9F0&center=true&width=435&height=60&lines=Ruthlessness+is;Mercy+upon;Ourselves;Die!)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="">
+        <img src="https://file.garden/aaPlwvSfDxzmdQU0/seasea" width="500" height="90" alt="Link Image">
+ </a><br>
+
+ <a href="">
+        <img src="https://file.garden/aaPlwvSfDxzmdQU0/tridento" width="100" height="100" alt="Link Image">
+</a>
+ 
+$\color{#a0c0e5}{\textsf{Wings}}$
+
+hi my name is wings yeah thats it goodbye
+
+ [more about me](https://natribu.org/en/)
+
+<a href="">
+        <img src="https://file.garden/aaPlwvSfDxzmdQU0/wavvv" width="500" height="90" alt="Link Image">
+ </a>
+
+  ![VIEWCOUNT](https://komarev.com/ghpvc/?username=your-github-username&label=DROWNED&color=7FA9F0)
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Princess+Sofia&size=40&duration=2000&pause=900&color=7FA9F0&center=true&width=700&height=70&lines=Hate;My+son+now+regards+me+with+hate,;No+chance+at+redemption;No+room+for+clean+slate;The+one+thing+I+loved;Learned+to+hate+me+for+eight+long+years)](https://git.io/typing-svg)
+
+ <a href="">
+        <img src="https://file.garden/aaPlwvSfDxzmdQU0/seasea" width="500" height="90" alt="Link Image">
+ </a>
