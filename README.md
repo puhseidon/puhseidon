@@ -6,6 +6,8 @@
 
 [![TYPING THING](https://readme-typing-svg.demolab.com?font=Princess+Sofia&size=40&duration=2000&pause=900&color=7FA9F0&center=true&width=435&height=60&lines=Ruthlessness+is;Mercy+upon;Ourselves;Die!)](https://git.io/typing-svg)
 
+<!-- dividers by cafekitsune on tumblr -->
+
 <a href="">
         <img src="https://file.garden/aaPlwvSfDxzmdQU0/seasea" width="500" height="90" alt="Link Image">
  </a><br>
